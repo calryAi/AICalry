@@ -1,0 +1,130 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-app-mockup",
+      "description": "App mockup on a phone",
+      "imageUrl": "https://images.unsplash.com/photo-1587573089019-741049f7a75f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhcHAlMjBzY3JlZW5zaG90fGVufDB8fHx8MTc1OTIzMDY1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "app screenshot"
+    },
+    {
+      "id": "challenge-visual",
+      "description": "Person taking photo of food",
+      "imageUrl": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmb29kJTIwcGhvdG9ncmFwaHl8ZW58MHx8fHwxNzU5MjU2OTU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "food photography"
+    },
+    {
+      "id": "founders-photo",
+      "description": "Photo of the two founders",
+      "imageUrl": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx0ZWFtJTIwcG9ydHJhaXR8ZW58MHx8fHwxNzU5MTk0NTk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "team portrait"
+    },
+    {
+      "id": "blog-1",
+      "description": "Blog post about MyFitnessPal",
+      "imageUrl": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmb29kJTIwcGxhdGV8ZW58MHx8fHwxNzU5MjYwMzE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "food plate"
+    },
+    {
+      "id": "blog-2",
+      "description": "Blog post about calorie hacks",
+      "imageUrl": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoZWFsdGh5JTIwZm9vZHxlbnwwfHx8fDE3NTkyNjM2NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "healthy food"
+    },
+    {
+      "id": "blog-3",
+      "description": "Blog post about AI in tracking",
+      "imageUrl": "https://images.unsplash.com/photo-1505935428862-770b6f24f629?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxudXRyaXRpb24lMjBjb25jZXB0fGVufDB8fHx8MTc1OTMyMDQ5MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "nutrition concept"
+    },
+    {
+      "id": "testimonial-1",
+      "description": "Portrait of a woman from India",
+      "imageUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NTkzMDY0NTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "testimonial-2",
+      "description": "Portrait of a man from USA",
+      "imageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NTkzMDY0NTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "testimonial-3",
+      "description": "Portrait of a woman from UK",
+      "imageUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NTkzMDY0NTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "testimonial-4",
+      "description": "Portrait of a man from UAE",
+      "imageUrl": "https://images.unsplash.com/photo-1552058544-f2b08422138a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NTkzMDY0NTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "testimonial-5",
+      "description": "Portrait of a man from Japan",
+      "imageUrl": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NTkzMDY0NTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "leaderboard-user-1",
+      "description": "Leaderboard user 1",
+      "imageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NTkzMDY0NTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "leaderboard-user-2",
+      "description": "Leaderboard user 2",
+      "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NTkzMDY0NTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "leaderboard-user-3",
+      "description": "Leaderboard user 3",
+      "imageUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NTkzMDY0NTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "leaderboard-user-4",
+      "description": "Leaderboard user 4",
+      "imageUrl": "https://images.unsplash.com/photo-1548142813-c348350df52b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGVyc29uJTIwcG9ydHJhaXR8ZW58MHx8fHwxNzU5MzA2NDU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "leaderboard-user-5",
+      "description": "Leaderboard user 5",
+      "imageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NTkzMDY0NTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "challenge-gallery-1",
+      "description": "Colorful salad bowl",
+      "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmb29kJTIwcGxhdGV8ZW58MHx8fHwxNzU5MjYwMzE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "salad bowl"
+    },
+    {
+      "id": "challenge-gallery-2",
+      "description": "Avocado toast with egg",
+      "imageUrl": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmb29kJTIwcGxhdGV8ZW58MHx8fHwxNzU5MjYwMzE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "avocado toast"
+    },
+    {
+      "id": "challenge-gallery-3",
+      "description": "Pasta with tomatoes",
+      "imageUrl": "https://images.unsplash.com/photo-1540432797114-187727adf19b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxmb29kJTIwcGxhdGV8ZW58MHx8fHwxNzU5MjYwMzE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pasta dish"
+    },
+    {
+      "id": "challenge-gallery-4",
+      "description": "Healthy vegan bowl",
+      "imageUrl": "https://images.unsplash.com/photo-1511690656952-34342bb7c2f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxmb29kJTIwcGxhdGV8ZW58MHx8fHwxNzU5MjYwMzE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vegan bowl"
+    },
+    {
+      "id": "challenge-gallery-5",
+      "description": "Stack of pancakes",
+      "imageUrl": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxmb29kJTIwcGxhdGV8ZW58MHx8fHwxNzU5MjYwMzE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pancakes breakfast"
+    }
+  ]
+}

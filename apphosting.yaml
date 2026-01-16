@@ -1,0 +1,13 @@
+# Settings to manage and configure a Firebase App Hosting backend.
+# https://firebase.google.com/docs/app-hosting/configure
+
+runConfig:
+  # Increase this value if you'd like to automatically spin up
+  # more instances in response to increased traffic.
+  maxInstances: 2
+  
+# Environment variables for production deployment
+env:
+  NODE_ENV: production
+  NEXT_PUBLIC_API_URL: https://api.aicalry.app
+  NEXT_PUBLIC_DOMAIN: aicalry.app
