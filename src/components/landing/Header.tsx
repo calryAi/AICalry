@@ -58,7 +58,7 @@ export function Header() {
 
           {/* App Store Download Button */}
           <Link
-            href="https://apps.apple.com/app/calry-ai"
+            href="https://apps.apple.com/in/app/calry-ai-ai-calorie-counter/id6752832435"
             className="hidden md:flex items-center transition-transform hover:scale-105"
           >
             <Image
@@ -72,7 +72,7 @@ export function Header() {
 
           {/* Google Play Download Button */}
           <Link
-            href="https://play.google.com/store/apps/details?id=com.calry.ai"
+            href="https://play.google.com/store/apps/details?id=com.calories.tracker.calryai&hl=en_IN"
             className="hidden md:flex items-center transition-transform hover:scale-105"
           >
             <Image
