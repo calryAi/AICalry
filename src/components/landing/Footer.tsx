@@ -1,4 +1,4 @@
-import { Facebook, Instagram, Twitter, Star } from "lucide-react";
+import { Facebook, Instagram, Youtube, Star } from "lucide-react";
 import Link from "next/link";
 import Image from "next/image";
 
@@ -20,7 +20,7 @@ export function Footer() {
             </div>            </div>
           <div className="flex flex-col sm:flex-row justify-center gap-4">
             <Link
-              href="https://apps.apple.com/us/app/calory-ai-calorie-counter/id6443610539"
+              href="https://apps.apple.com/in/app/calry-ai-ai-calorie-counter/id6752832435"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -33,7 +33,7 @@ export function Footer() {
               />
             </Link>
             <Link
-              href="https://play.google.com/store/apps/details?id=com.calory.app"
+              href="https://play.google.com/store/apps/details?id=com.calories.tracker.calryai&hl=en_IN"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -60,19 +60,19 @@ export function Footer() {
 
           <div className="flex gap-4">
             <Link
-              href="#"
+              href="https://www.youtube.com/channel/UC4pPh4rCDuGqnQ922XnW6nQ"
               className="text-muted-foreground hover:text-primary"
             >
-              <Twitter className="h-5 w-5" />
+              <Youtube className="h-5 w-5" />
             </Link>
             <Link
-              href="#"
+              href="https://www.facebook.com/profile.php?id=61583894590870"
               className="text-muted-foreground hover:text-primary"
             >
               <Facebook className="h-5 w-5" />
             </Link>
             <Link
-              href="#"
+              href="https://www.instagram.com/aicalry.app/"
               className="text-muted-foreground hover:text-primary"
             >
               <Instagram className="h-5 w-5" />
