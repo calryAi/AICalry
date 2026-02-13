@@ -19,7 +19,7 @@ export default function Home() {
         <ComparisonSection />
         <FounderStorySection />
         <BlogSection />
-        <TestimonialsSection />
+        {/* <TestimonialsSection /> */}
         <LeaderboardSection />
       </main>
       <Footer />
